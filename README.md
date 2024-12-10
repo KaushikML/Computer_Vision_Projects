@@ -21,16 +21,17 @@ Image Segmentation 🖍️
 
 Face Recognition 🤖
 
-Action Recognition in Videos 🎥
+People Counting
+
+Image Generation
 
 ## 🛠️ Installation & Setup
 To get started, clone the repository and set up the required dependencies:
 
 ```bash
 Copy code
-git clone https://github.com/your-username/tensorflow-computer-vision-projects.git
-cd tensorflow-computer-vision-projects
-pip install -r requirements.txt
+git clone https://github.com/KaushikML/Computer_Vision_Projects.git
+cd Computer_Vision_Projects
 ```
 Make sure you have TensorFlow 2.x installed. Additional dependencies for each project will be provided in the respective folders.
 
